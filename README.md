@@ -89,6 +89,14 @@ npm start
 ### Access the App
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+![image](https://github.com/user-attachments/assets/2f5b9e0f-bec5-4cfa-a700-4547de17386a)
+
+![image](https://github.com/user-attachments/assets/25e5b61a-13c9-46ad-8929-173ba81810b5)
+
+![image](https://github.com/user-attachments/assets/c2bbeb1a-cf88-42cd-929f-087335fadad0)
+
+![image](https://github.com/user-attachments/assets/7439245a-8195-4b16-8c63-6106dd0716ce)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
